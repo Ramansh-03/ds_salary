@@ -1,1 +1,1 @@
-This was more of a data collection and cleaning project. It estimated the salary of an employee who works in the field of data science based on various factors such as Company Name, Company Rating, Size of Company and Job Title.
+# This was more of a data collection and cleaning project. It estimated the salary of an employee who works in the field of data science based on various factors such as Company Name, Company Rating, Size of Company and Job Title.
